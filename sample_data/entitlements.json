@@ -1,0 +1,7 @@
+[
+  { "id": "ENT001", "name": "Adobe Acrobat Pro - 250 seats", "end_date": "2026-12-27" },
+  { "id": "ENT002", "name": "Atlassian Jira Cloud", "end_date": "2026-10-08" },
+  { "id": "ENT003", "name": "Tableau Creator", "end_date": "2026-09-20" },
+  { "id": "ENT004", "name": "Visio Plan 2", "end_date": "2026-11-15" },
+  { "id": "ENT005", "name": "Zoom Business", "end_date": "2026-10-28", "renewal_started": true }
+]

@@ -1,0 +1,8 @@
+serial,model,status,assigned_to,purchase_date,warranty_expiration,cost
+5CG1234ABC,LAT 5440,Deployed,jane.doe,3/14/2023,3/14/2026,"$1,249.00"
+5cg-1234-abd,Dell Latitude 5440,spare,,2023-03-14,2026-03-14,1249
+5CG1234ABC,Dell Latitude 5440,deployed,john.roe,2023-03-14,2026-03-14,1249
+C02XK1Y2JG5H,MacBook Pro 14,in use,,2022-11-01,2025-11-01,2399
+,Dell Latitude 5440,Deployed,amy.lee,2023-03-14,2026-03-14,1249
+FVFZ9ABCDE,Mac Mini M2,ewaste,,2021-06-30,2019-06-30,799
+PF3XYZ12,ThinkPad X1,Lost,,31/12/2022,2025-12-31,abc
